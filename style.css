@@ -47,13 +47,13 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    /* text-align: right; */
-    padding-top: 30px;
-    padding-left: 20px;
+    text-align: right;
+    padding-top: 70px;
+    padding-left: 0px;
 }
 
 section#redes-sociais img {
-    width: 50px;
+    width: 40px;
     margin: 10px;
     border-radius: 50%; /* arredondar os botoes */
     box-sizing: border-box;
